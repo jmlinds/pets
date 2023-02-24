@@ -16,5 +16,5 @@ One of two possible character strings (`"I love cats!"` or `"I haven't met a cat
 Expresses your opinions about cats
 }
 \examples{
-cat(TRUE)
+cats(TRUE)
 }
